@@ -1,0 +1,6 @@
+c:\temp,c:\backups\temp
+c:\temp\emails,C:\backups\Emails Backup
+
+
+
+
